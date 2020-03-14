@@ -6,7 +6,7 @@ Local:
 [t-saito@MacBookPronoMacBook-Pro k8s-flask-tutorial]$ pwd
 /Users/t-saito/k8s-flask-tutorial
 
-GCPへクラスターの作成
+GCPへクラスターの作成とデプロイ
 
 https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app?hl=ja
 
